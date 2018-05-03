@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Kingfisher (4.6.4)
+  - Realm (3.3.1):
+    - Realm/Headers (= 3.3.1)
+  - Realm/Headers (3.3.1)
+  - RealmSwift (3.3.1):
+    - Realm (= 3.3.1)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SwiftyJSON (3.1.4)
+  - Swinject (2.3.0)
+  - SwinjectStoryboard (1.2.1):
+    - Swinject (~> 2.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0.1)
+  - Kingfisher
+  - RealmSwift
+  - RxCocoa
+  - RxSwift
+  - SwiftyJSON (~> 3.1.1)
+  - Swinject
+  - SwinjectStoryboard
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Kingfisher
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxSwift
+    - SwiftyJSON
+    - Swinject
+    - SwinjectStoryboard
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Kingfisher: 68498a706e46c2a050b0c9572f100e5db407f6e0
+  Realm: 63ebf4903b446b0bdf2131244eb1e1549925c724
+  RealmSwift: f28fe8507bdfb8f1c924962401b83e7b9d7abb5c
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Swinject: 6e29897396bab81fe4aa40c5ca92ba996136334b
+  SwinjectStoryboard: de60d1d30fbf442fe90fc5c31d9fff89cf3ef64f
+
+PODFILE CHECKSUM: 2bbb53f948ba293029cbefc7fce23847db7d5743
+
+COCOAPODS: 1.5.0.beta.1
